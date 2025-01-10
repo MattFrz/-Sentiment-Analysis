@@ -1,0 +1,10 @@
+Average sentiment of all tweets: 0.07
+Total number of tweets: 40
+Number of positive tweets: 17
+Number of negative tweets: 17
+Number of neutral tweets: 6
+Number of favorited tweets: 38
+Average sentiment of favorited tweets: 0.18
+Number of retweeted tweets: 38
+Average sentiment of retweeted tweets: 0.16
+Top five countries by average sentiment: Canada, United Kingdom, United States, Japan, India
